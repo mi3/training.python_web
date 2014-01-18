@@ -11,7 +11,7 @@ def response_ok( body=None, mimetype=None):
     mime_type+=mimetype
     resp.append(mime_type)
     resp.append("")
-    resp.append(body) 
+    resp.append(body)
     return "\r\n".join(resp)
 
 
@@ -19,7 +19,9 @@ def response_method_not_allowed():
     """returns a 405 Method Not Allowed response"""
     resp = []
     resp.append("HTTP/1.1 405 Method Not Allowed")
+    resp.append("Content-Type: text/plain")
     resp.append("")
+    resp.append("Error 405: Method not allowed")
     return "\r\n".join(resp)
 
 
@@ -36,6 +38,7 @@ def response_not_found():
     resp = [] 
     resp.append("HTTP/1.1 404 Not Found\n")
     resp.append("")
+    resp.append("Error 404: File not found")
     return "\r\n".join(resp)
 
 def resolve_uri(a_uri):
@@ -61,9 +64,12 @@ def resolve_uri(a_uri):
            
         if os.path.isdir(resource):
             #is a dir 
-            mtype = 'text/plain'
+            mtype = 'text/html'
+            print resource 
             for filename in os.listdir(resource):
-                resp+= "%s\n" %(filename)
+                resp+="<a href=%s> %s </a> <br>" \
+                    %(resource.split('/')[-1]+"/"+filename,filename)
+                
     else :
         raise ValueError("Resource not found")
     return  resp, mtype
@@ -102,7 +108,7 @@ def server():
                 else:            
                     try:    
                         re, mi = resolve_uri(r_uri)
-                    except ValueError: 
+                    except ValueError:
                         response = response_not_found()
                     else:
                         response = response_ok(re, mi)
