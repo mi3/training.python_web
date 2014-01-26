@@ -1,0 +1,157 @@
+Glassdoor: Suggestions found, trying the closest ...
+
+{'gd_company': u'Amazon Web Services',
+ 'gd_salary': [102000, 140000],
+ 'gd_score': 3.6,
+ 'in_company': u'Amazon Web Services, Inc.',
+ 'title': u'Software Development Engineer \u2013 AWS Commerce Platform',
+ 'url': u'http://www.indeed.com/viewjob?jk=f60d88045ab9bdf2&qd=-Un5cKi64BAs3VxMkKV2pGm1eoRWornDutyXWgH4bcLqJ_i1eKtQJaImCIiYNRKMnFS5ox4wPkWzB9HJkyS4kYYHs492wh5rqB6OtyTh09Q&indpubnum=432927047873558&atk=18f60jnf61d721q5'}
+---------------------------------------------------------
+
+{'gd_company': u'Quidsi',
+ 'gd_salary': [35000, 43000],
+ 'gd_score': 2.5,
+ 'in_company': u'Quidsi, Inc.',
+ 'title': u'Software Development Engineer I, Quidsi (Amazon Subsidiary)',
+ 'url': u'http://www.indeed.com/viewjob?jk=c6ba0735de23f553&qd=-Un5cKi64BAs3VxMkKV2pGm1eoRWornDutyXWgH4bcLqJ_i1eKtQJaImCIiYNRKMnFS5ox4wPkWzB9HJkyS4kYYHs492wh5rqB6OtyTh09Q&indpubnum=432927047873558&atk=18f60jnf61d721q5'}
+---------------------------------------------------------
+
+Glassdoor: Suggestions found, trying the closest ...
+
+{'gd_company': u'Groupon',
+ 'gd_salary': [71000, 183000],
+ 'gd_score': 2.9,
+ 'in_company': u'Groupon',
+ 'title': u'Software Development Engineer, Big Data',
+ 'url': u'http://www.indeed.com/viewjob?jk=70c469ed4d48e71a&qd=-Un5cKi64BAs3VxMkKV2pGm1eoRWornDutyXWgH4bcLqJ_i1eKtQJaImCIiYNRKMnFS5ox4wPkWzB9HJkyS4kYYHs492wh5rqB6OtyTh09Q&indpubnum=432927047873558&atk=18f60jnf61d721q5'}
+---------------------------------------------------------
+
+{'gd_company': u'UW Medicine',
+ 'gd_salary': [65000, 88000],
+ 'gd_score': 3.2,
+ 'in_company': u'University of Washington Medical Center',
+ 'title': u'SOFTWARE ENGINEER',
+ 'url': u'http://www.indeed.com/viewjob?jk=d6cd1efd3e805587&qd=-Un5cKi64BAs3VxMkKV2pGm1eoRWornDutyXWgH4bcLqJ_i1eKtQJaImCIiYNRKMnFS5ox4wPkWzB9HJkyS4kYYHs492wh5rqB6OtyTh09Q&indpubnum=432927047873558&atk=18f60jnf61d721q5'}
+---------------------------------------------------------
+
+Glassdoor: Suggestions found, trying the closest ...
+
+Usermind : Company review not found on glassdoor!
+
+---------------------------------------------------------
+
+Glassdoor: Suggestions found, trying the closest ...
+
+Amazon Corporate LLC : Company review not found on glassdoor!
+
+---------------------------------------------------------
+
+Glassdoor: Suggestions found, trying the closest ...
+
+Amazon Corporate LLC : Company review not found on glassdoor!
+
+---------------------------------------------------------
+
+Glassdoor: Suggestions found, trying the closest ...
+
+Walk Score : Company review not found on glassdoor!
+
+---------------------------------------------------------
+
+Glassdoor: Suggestions found, trying the closest ...
+
+{'gd_company': u'CompuCom',
+ 'gd_salary': [17000, 27000],
+ 'gd_score': 2.6,
+ 'in_company': u'Compucom',
+ 'title': u'Web Application Developer',
+ 'url': u'http://www.indeed.com/viewjob?jk=c7373c54723e5ed6&qd=-Un5cKi64BAs3VxMkKV2pGm1eoRWornDutyXWgH4bcLqJ_i1eKtQJaImCIiYNRKMnFS5ox4wPkWzB9HJkyS4kYYHs492wh5rqB6OtyTh09Q&indpubnum=432927047873558&atk=18f60jnf61d721q5'}
+---------------------------------------------------------
+
+Glassdoor: Suggestions found, trying the closest ...
+
+{'gd_company': u'Nordstrom',
+ 'gd_salary': [0, 30000],
+ 'gd_score': 3.5,
+ 'in_company': u'Nordstrom',
+ 'title': u'Data Scientist - Personalization',
+ 'url': u'http://www.indeed.com/viewjob?jk=45d101463a047086&qd=-Un5cKi64BAs3VxMkKV2pGm1eoRWornDutyXWgH4bcLqJ_i1eKtQJaImCIiYNRKMnFS5ox4wPkWzB9HJkyS4kYYHs492wh5rqB6OtyTh09Q&indpubnum=432927047873558&atk=18f60jnf61d721q5'}
+---------------------------------------------------------
+
+Glassdoor: Suggestions found, trying the closest ...
+
+Amazon Corporate LLC : Company review not found on glassdoor!
+
+---------------------------------------------------------
+
+{'gd_company': u'RealNetworks',
+ 'gd_salary': [64000, 105000],
+ 'gd_score': 2.6,
+ 'in_company': u'RealNetworks',
+ 'title': u'Data Scientist',
+ 'url': u'http://www.indeed.com/viewjob?jk=1772c97401558785&qd=-Un5cKi64BAs3VxMkKV2pGm1eoRWornDutyXWgH4bcLqJ_i1eKtQJaImCIiYNRKMnFS5ox4wPkWzB9HJkyS4kYYHs492wh5rqB6OtyTh09Q&indpubnum=432927047873558&atk=18f60jnf61d721q5'}
+---------------------------------------------------------
+
+Glassdoor: Suggestions found, trying the closest ...
+
+CoroWare : Company review not found on glassdoor!
+
+---------------------------------------------------------
+
+{'gd_company': u'ServiceNow',
+ 'gd_salary': [85000, 150000],
+ 'gd_score': 3.5,
+ 'in_company': u'ServiceNow',
+ 'title': u'Senior Systems Engineer',
+ 'url': u'http://www.indeed.com/viewjob?jk=13ef124eca6be32b&qd=-Un5cKi64BAs3VxMkKV2pGm1eoRWornDutyXWgH4bcLqJ_i1eKtQJaImCIiYNRKMnFS5ox4wPkWzB9HJkyS4kYYHs492wh5rqB6OtyTh09Q&indpubnum=432927047873558&atk=18f60jnf61d721q5'}
+---------------------------------------------------------
+
+Glassdoor: Suggestions found, trying the closest ...
+
+Amazon Corporate LLC : Company review not found on glassdoor!
+
+---------------------------------------------------------
+
+{'gd_company': u'Avalara',
+ 'gd_salary': [85000, 121000],
+ 'gd_score': 3.6,
+ 'in_company': u'Avalara',
+ 'title': u'Senior Software Developer',
+ 'url': u'http://www.indeed.com/viewjob?jk=16aa920a73f9e4a2&qd=-Un5cKi64BAs3VxMkKV2pGm1eoRWornDutyXWgH4bcLqJ_i1eKtQJaImCIiYNRKMnFS5ox4wPkWzB9HJkyS4kYYHs492wh5rqB6OtyTh09Q&indpubnum=432927047873558&atk=18f60jnf61d721q5'}
+---------------------------------------------------------
+
+Glassdoor: Suggestions found, trying the closest ...
+
+{'gd_company': u'University of Washington',
+ 'gd_salary': [37000, 75000],
+ 'gd_score': 3.7,
+ 'in_company': u'University of Washington',
+ 'title': u'SOFTWARE ENGINEER',
+ 'url': u'http://www.indeed.com/viewjob?jk=e5dbdfbb59891566&qd=-Un5cKi64BAs3VxMkKV2pGm1eoRWornDutyXWgH4bcLqJ_i1eKtQJaImCIiYNRKMnFS5ox4wPkWzB9HJkyS4kYYHs492wh5rqB6OtyTh09Q&indpubnum=432927047873558&atk=18f60jnf61d721q5'}
+---------------------------------------------------------
+
+Glassdoor: Suggestions found, trying the closest ...
+
+{'gd_company': u'University of Washington',
+ 'gd_salary': [37000, 75000],
+ 'gd_score': 3.7,
+ 'in_company': u'University of Washington',
+ 'title': u'SENIOR DEVELOPER',
+ 'url': u'http://www.indeed.com/viewjob?jk=86f64e2144bd6005&qd=-Un5cKi64BAs3VxMkKV2pGm1eoRWornDutyXWgH4bcLqJ_i1eKtQJaImCIiYNRKMnFS5ox4wPkWzB9HJkyS4kYYHs492wh5rqB6OtyTh09Q&indpubnum=432927047873558&atk=18f60jnf61d721q5'}
+---------------------------------------------------------
+
+invalid literal for int() with base 10: ''
+{'gd_company': u'BlueKai',
+ 'gd_salary': [145000, 176000],
+ 'gd_score': 4.4,
+ 'in_company': u'BlueKai',
+ 'title': u'Systems Engineer',
+ 'url': u'http://www.indeed.com/viewjob?jk=a925a5500a59da81&qd=-Un5cKi64BAs3VxMkKV2pGm1eoRWornDutyXWgH4bcLqJ_i1eKtQJaImCIiYNRKMnFS5ox4wPkWzB9HJkyS4kYYHs492wh5rqB6OtyTh09Q&indpubnum=432927047873558&atk=18f60jnf61d721q5'}
+---------------------------------------------------------
+
+Glassdoor: Suggestions found, trying the closest ...
+
+Amazon Corporate LLC : Company review not found on glassdoor!
+
+---------------------------------------------------------
+
