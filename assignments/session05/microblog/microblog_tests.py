@@ -64,6 +64,8 @@ class MicroblogTestCase(unittest.TestCase):
             self.assertTrue(value in actual)
 
     def test_add_entries(self):
+        with self.client.session_transaction() as session:
+            session['logged_in'] = True
         actual = self.client.post('/add', data=dict(
             title='Hello',
             text='This is a post'
@@ -71,6 +73,22 @@ class MicroblogTestCase(unittest.TestCase):
         self.assertFalse('No entries here so far' in actual)
         self.assertTrue('Hello' in actual)
         self.assertTrue('This is a post' in actual)
+
+
+    def test_login(self):
+        actual = self.client.post('/login', data=dict(username='admin', password='default'),
+            follow_redirects=True)
+        self.assertTrue('You are logged in' in actual.data)
+
+    def test_logout(self):
+        actual = self.client.get(
+            '/logout', follow_redirects=True)
+        self.assertTrue('You have logged out' in actual.data)
+
+    def test_login_incorrect(self):
+        actual = self.client.post('/login', data=dict(username='adminn', password='default'),
+            follow_redirects=True)
+        self.assertTrue('Invalid username' in actual.data)
 
 
 if __name__ == '__main__':
