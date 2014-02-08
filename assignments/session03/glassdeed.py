@@ -15,7 +15,7 @@ from pprint import pprint
 import json
 
 #Indeed.com API Key and query
-INDEED_KEY          = '432927047873558' 
+INDEED_KEY          = 'PUTYOUROWN' 
 INDEED_MAX_JOB      = 20
 INDEED_SEARCH_FOR   = "Python"
 INDEED_JOB_LOC      = "Seattle"
