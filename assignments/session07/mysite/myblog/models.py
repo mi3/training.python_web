@@ -18,5 +18,12 @@ class Category(models.Model):
     posts = models.ManyToManyField(Post, blank=True, null=True,
                                    related_name='categories')
 
+    #Change the admin index to say 
+    #'Categories' instead of 'Categorys'.
+    class Meta:
+        verbose_name = 'Category'
+        verbose_name_plural = 'Categories'
+        ordering = ('name',)
+
     def __unicode__(self):
         return self.name
