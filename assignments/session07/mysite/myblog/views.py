@@ -14,7 +14,8 @@ def stub_view(request, *args, **kwargs):
     return HttpResponse(body, content_type="text/plain")
 
 def list_view(request):
-    published = Post.objects.exclude(published_date__exact=None)
+    #Display by status field instead of publish date
+    published = Post.objects.exclude(status__exact='d')
     posts = published.order_by('-published_date')
     context = {'posts': posts}
     return render(request, 'list.html', context)
