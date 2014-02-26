@@ -90,5 +90,7 @@ TEMPLATE_DIRS = (os.path.join(BASE_DIR, 'mysite/templates'),)
 
 CKEDITOR_UPLOAD_PATH = os.path.join(BASE_DIR, 'uploads')
 
+
+
 LOGIN_URL = '/login/'
 LOGIN_REDIRECT_URL = '/'
