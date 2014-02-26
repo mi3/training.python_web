@@ -38,6 +38,7 @@ INSTALLED_APPS = (
     'django.contrib.staticfiles',
     'south',
     'myblog',
+    'ckeditor',
 )
 
 MIDDLEWARE_CLASSES = (
@@ -83,7 +84,11 @@ USE_TZ = True
 
 STATIC_URL = '/static/'
 
+STATIC_ROOT = os.path.join(BASE_DIR, 'static')
+
 TEMPLATE_DIRS = (os.path.join(BASE_DIR, 'mysite/templates'),)
+
+CKEDITOR_UPLOAD_PATH = os.path.join(BASE_DIR, 'uploads')
 
 LOGIN_URL = '/login/'
 LOGIN_REDIRECT_URL = '/'
